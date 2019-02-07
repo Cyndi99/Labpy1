@@ -1,5 +1,3 @@
-#labpy1
-
 #![screenshot 24](https://user-images.githubusercontent.com/46753205/52393376-56dae780-2ad8-11e9-8feb-2ecb338af875.png)
 
 def
