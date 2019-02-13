@@ -17,7 +17,7 @@ Selesai
 Untuk Flowchart nya bisa dilihat pada gambar di bawah ini :
 ![2013-01-17_082540](https://user-images.githubusercontent.com/46753205/52687035-c7737f80-2f82-11e9-9fa0-5773a8178131.jpg)
 
- screenshot hasil eksekusi program :
- ![screenshot 27](https://user-images.githubusercontent.com/46753205/52685486-71034280-2f7c-11e9-915b-ac0bd3e8cfe4.png)
+Screenshot hasil eksekusi program :
+![screenshot 28](https://user-images.githubusercontent.com/46753205/52685533-a27c0e00-2f7c-11e9-99ed-b89a8c39981c.png)
  
- ![screenshot 28](https://user-images.githubusercontent.com/46753205/52685533-a27c0e00-2f7c-11e9-99ed-b89a8c39981c.png)
+![screenshot 27](https://user-images.githubusercontent.com/46753205/52685486-71034280-2f7c-11e9-915b-ac0bd3e8cfe4.png)
